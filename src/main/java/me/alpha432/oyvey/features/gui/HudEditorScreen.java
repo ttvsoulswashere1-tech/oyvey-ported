@@ -21,7 +21,7 @@ public class HudEditorScreen extends Screen {
     public boolean anyHover;
 
     public HudEditorScreen() {
-        super(Component.literal("oyvey-hudeditor"));
+        super(Component.literal("Chris Daniel-hudeditor"));
         load();
     }
 
